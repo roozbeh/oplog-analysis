@@ -1,7 +1,7 @@
 # oplog-analysis
 ==============
 
-# Installation of required packages:
+Installation of required packages:
 ------------------
 ```$ brew install npm
 $ npm install mongodb
